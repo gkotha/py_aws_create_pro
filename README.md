@@ -1,0 +1,2 @@
+# py_aws_create_pro
+Creating a Python Module (py_aws_create_pro) using boto3 API that can create a Security Group by taking the following input:sg_name, sg_desc, sg_ingress_IpProtocol, sg_ingress_FromPort, sg_ingress_ToPort, sg_ingress_CidrIp, VpcId
